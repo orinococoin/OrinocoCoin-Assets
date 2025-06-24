@@ -1,0 +1,10 @@
+{
+  "name": "Orinoco Coin",
+  "symbol": "ORI",
+  "description": "Token for digital commerce in Venezuela",
+  "image": "https://raw.githubusercontent.com/orinococoin/OrinocoCoin-Assets/refs/heads/main/3D%20logo%20for%20Orinoco%20Coin%20with%20the%20abbreviation%20ORI%20inside.png",
+  "issuer": "rTestColdWallet1234567890",
+  "currency": "ORI",
+  "website": "https://orinocoin.com",
+  "contact": "hernan@orinocoin.com"
+}
